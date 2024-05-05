@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DevSoru
+- 👀 I’m interested in Databases, WebApps and API REST
+- 🌱 I’m currently learning DevOps
